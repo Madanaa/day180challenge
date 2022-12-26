@@ -1,2 +1,5 @@
-package collectionsFramework;public class SortStudentClass {
+package collectionsFramework;
+
+public class SortStudentClass {
+
 }

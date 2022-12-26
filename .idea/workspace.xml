@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
+      <change afterPath="$PROJECT_DIR$/src/collectionsFramework/ListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/MaximumumPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day9/NextPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rivision/PowerToRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/Swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/Swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day7/TwoPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7/TwoPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rivision/TrappingWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rivision/TrappingWater.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +47,13 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Swap">
-    <configuration name="CountPostiveInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.CountPostiveInArray" />
+  <component name="RunManager" selected="Application.MaximumumPath">
+    <configuration name="ListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collectionsFramework.ListDemo" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="collectionsFramework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="First_Digit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.First_Digit" />
+    <configuration name="MaximumumPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day9.MaximumumPath" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="day9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PowerOfA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.PowerOfA" />
+    <configuration name="PowerToRecursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rivision.PowerToRecursion" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="rivision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day7.TwoPointer" />
+    <configuration name="TrappingWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rivision.TrappingWater" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day7.*" />
+          <option name="PATTERN" value="rivision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumumPath" />
+        <item itemvalue="Application.ListDemo" />
+        <item itemvalue="Application.TrappingWater" />
+        <item itemvalue="Application.PowerToRecursion" />
         <item itemvalue="Application.Swap" />
-        <item itemvalue="Application.TwoPointer" />
-        <item itemvalue="Application.PowerOfA" />
-        <item itemvalue="Application.CountPostiveInArray" />
-        <item itemvalue="Application.First_Digit" />
       </list>
     </recent_temporary>
   </component>
@@ -354,6 +357,21 @@
           <url>file://$PROJECT_DIR$/src/day7/GCD.java</url>
           <line>16</line>
           <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rivision/PowerToRecursion.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rivision/PowerToRecursion.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rivision/PowerToRecursion.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

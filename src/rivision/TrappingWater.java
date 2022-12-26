@@ -8,13 +8,13 @@ public class TrappingWater {
             int left = a[i];
 
             //int right;
-            for(left = 0; left < i; ++left) {
+            for(left = 0; left < i; left++) {
                 left = Math.max(left, a[left]);
             }
 
             int right = a[i];
 
-            for(int j = i + 1; j < n; ++j) {
+            for(int j = i + 1; j < n; j++) {
                 right = Math.max(right, a[j]);
             }
 
@@ -25,6 +25,7 @@ public class TrappingWater {
     }
 
     public static void main(String[] args) {
-
+        int a[] = {0, 1, 0, 2, 1, 0, 1, 3, 2, 1, 2, 1};
+        System.out.println(trappingWater(a,a.length));
     }
 }
