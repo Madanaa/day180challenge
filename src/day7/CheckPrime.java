@@ -9,7 +9,7 @@ public class CheckPrime {
             System.out.println("Not prime");
         }
         int count = 0;
-        for (i = 2; i <= n / 2; i++) {
+        for (i = 2; i <= n/2  ; i++) {
             if (n % i == 0) {
                 count++;
                 break;
@@ -18,7 +18,7 @@ public class CheckPrime {
         if (count == 1) {
             System.out.println("Not Prime");
         } else {
-            System.out.println("Prime "+i);
+            System.out.println("Prime "+n);
         }
     }
 }
