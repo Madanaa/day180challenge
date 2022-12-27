@@ -32,7 +32,7 @@ public class MaxCircularSum {
 
             // Kadane's Algorithm to find Minimum subarray
             // sum.
-            currMin = Math.min(currMin + array[i], array[i]);
+            currMin = Math.min(currMin +  array[i], array[i]);
             min = Math.min(min, currMin);
         }
         if (min == sum) {

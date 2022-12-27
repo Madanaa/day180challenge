@@ -1,2 +1,25 @@
-package day10;public class JumpGame {
+package day10;
+
+public class JumpGame {
+    public static boolean canJump(int[] nums) {
+        // Take curr variable to keep the current maximum jump...
+        int curr = 0;
+        // Traverse all the elements through loop...
+        for (int i = 0; i < nums.length; i++) {
+            // If the current index 'i' is less than current maximum jump 'curr'...
+            // It means there is no way to jump to current index...
+            // so we should return false...
+            if (i > curr) {
+                return false;
+            }
+            // Update the current maximum jump...
+            curr = Math.max(curr, i + nums[i]);     // It’s possible to reach the end of the array...
+        }
+        return true;
+    }
+
+    public static void main(String[] args) {
+        int a[] = {2,3,1,1,4};
+        System.out.println(canJump(a));
+    }
 }
