@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/collectionsFramework/ObjectArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/CalculateFirstSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day12/RearrangeArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12/RearrangeArrayByHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/MajorityElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day14/RotateImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day1/MajorityElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1/MajorityElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day11/RverserArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day11/RverserArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/day1/MajorityElement.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day1/ProductArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day1/TirneryOperator.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day12/RearrangeArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day12/RearrangeArrayByHashSet.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day13/MajorityElement.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day14/RotateImage.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day2/Array3Sum.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day2/RunningOfSumArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day2/SalaryExcluding.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -32,14 +47,14 @@
     <option name="showLibraryContents" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/BloggerApp/springboot-rest-api/day180challenge/src&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/aSpringProject/studentService"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="collectionsFramework" />
@@ -48,13 +63,13 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfEvenOdd1">
-    <configuration name="BadVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.BadVersion" />
+  <component name="RunManager" selected="Application.day14.MajorityElement">
+    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13.MajorityElement" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day12.*" />
+          <option name="PATTERN" value="day13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,34 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculateFirstSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.CalculateFirstSum" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ObjectArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collectionsFramework.ObjectArray" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="collectionsFramework.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RearrangeArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day12.RearrangeArray" />
+    <configuration name="RearrangeArrayByHashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12.RearrangeArrayByHashSet" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
@@ -114,13 +103,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="day14.MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.MajorityElement" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="day14.RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day14.RotateImage" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day14.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.day14.MajorityElement" />
+        <item itemvalue="Application.MajorityElement" />
+        <item itemvalue="Application.day14.RotateImage" />
+        <item itemvalue="Application.RearrangeArrayByHashSet" />
         <item itemvalue="Application.SumOfEvenOdd1" />
-        <item itemvalue="Application.CalculateFirstSum" />
-        <item itemvalue="Application.RearrangeArray" />
-        <item itemvalue="Application.ObjectArray" />
-        <item itemvalue="Application.BadVersion" />
       </list>
     </recent_temporary>
   </component>
@@ -280,36 +295,6 @@
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day1/MajorityElement.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="26" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day1/MajorityElement.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day1/MajorityElement.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="28" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day1/MajorityElement.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="29" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day1/MajorityElement.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/day1/MajorityElement.java</url>
-          <line>26</line>
-          <option name="timeStamp" value="31" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/day7/CheckPrime.java</url>
           <line>6</line>
           <option name="timeStamp" value="32" />
@@ -413,6 +398,31 @@
           <url>file://$PROJECT_DIR$/src/day11/PrintSeriesN_t_0.java</url>
           <line>9</line>
           <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day14/MajorityElement.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day14/MajorityElement.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day14/MajorityElement.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day14/MajorityElement.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day14/MajorityElement.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
