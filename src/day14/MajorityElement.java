@@ -29,7 +29,6 @@ public class MajorityElement {
                 maxCount = entry.getValue();
             }
         }
-
         return majorityElement;
     }
 }
