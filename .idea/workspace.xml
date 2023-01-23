@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
+      <change afterPath="$PROJECT_DIR$/src/array/FindPeackElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/IsUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/StringOperation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/DuplicateValueInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/DuplicateValueInArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +61,46 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicateA">
+  <component name="RunManager" selected="Application.StringOperation">
+    <configuration name="DuplicateValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.DuplicateValueInArray" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindPeackElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.FindPeackElement" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IsUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.IsUnique" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RemoveDuplicateA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.RemoveDuplicateA" />
       <module name="day180challenge" />
@@ -71,51 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.RemoveDuplicateElementInArray" />
+    <configuration name="StringOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.StringOperation" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="array.FindCommonElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.FindCommonElementInArray" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="array.FindDuplicateArrayEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.FindDuplicateArrayEle" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="array.Segregate0sAnd1sInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Segregate0sAnd1sInArray" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringOperation" />
+        <item itemvalue="Application.IsUnique" />
+        <item itemvalue="Application.DuplicateValueInArray" />
+        <item itemvalue="Application.FindPeackElement" />
         <item itemvalue="Application.RemoveDuplicateA" />
-        <item itemvalue="Application.array.FindDuplicateArrayEle" />
-        <item itemvalue="Application.RemoveDuplicateElementInArray" />
-        <item itemvalue="Application.array.Segregate0sAnd1sInArray" />
-        <item itemvalue="Application.array.FindCommonElementInArray" />
       </list>
     </recent_temporary>
   </component>
