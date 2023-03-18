@@ -2,14 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/array/InsertElementInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/LeftRotate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/LeftRotationArray2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/RightRotateArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/RemoveDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day17/RemoveDuplicateBySet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/array/Segregate0sAnd1sInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/Segregate0sAnd1sInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/FindDuplicateArrayEle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/FindDuplicateArrayEle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/date/DateFormatterWithTimeZoneMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/date/DateFormatterWithTimeZoneMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/date/DateWithTimeZoneDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/date/DateWithTimeZoneDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day18/ArrayDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18/ArrayDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day18/LCMDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18/LCMDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day18/SequreQ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day18/SequreQ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/day/ExcelSheetColumnNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/day/ExcelSheetColumnNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetCode/day2/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetCode/day2/PlusOne.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +30,14 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/array/InsertElementInArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/array/LeftRotate.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/array/LeftRotationArray2.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/array/RightRotateArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/array/Segregate0sAnd1sInArray.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/date/DateFormatterWithTimeZoneMethod.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/date/DateWithTimeZoneDemo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/day1/CalculateSum.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/day1/MajorityElement.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/day1/ProductArray.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/day1/TirneryOperator.java" root0="FORCE_HIGHLIGHTING" />
@@ -37,6 +48,7 @@
     <setting file="file://$PROJECT_DIR$/src/day2/Array3Sum.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/day2/RunningOfSumArray.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/day2/SalaryExcluding.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/leetCode/day2/PlusOne.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -53,7 +65,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/aSpringProject/studentService&quot;
+    &quot;last_opened_file_path&quot;: &quot;E:/opsc/firstc&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -64,9 +76,22 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RightRotateArray">
-    <configuration name="InsertElementInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.InsertElementInArray" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.ArrayDemo" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDuplicateArrayEle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.FindDuplicateArrayEle" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
@@ -78,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftRotate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.LeftRotate" />
+    <configuration name="LCMDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.LCMDemo" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftRotationArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.LeftRotationArray2" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day2.Main" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="day2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightRotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.RightRotateArray" />
+    <configuration name="SequreQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day18.SequreQ" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="day18.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,26 +142,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Segregate0sAnd1sInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.Segregate0sAnd1sInArray" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <list>
+      <item itemvalue="Application.ArrayDemo" />
+      <item itemvalue="Application.LCMDemo" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.FindDuplicateArrayEle" />
+      <item itemvalue="Application.SequreQ" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RightRotateArray" />
-        <item itemvalue="Application.LeftRotationArray2" />
-        <item itemvalue="Application.LeftRotate" />
-        <item itemvalue="Application.InsertElementInArray" />
-        <item itemvalue="Application.Segregate0sAnd1sInArray" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.LCMDemo" />
+        <item itemvalue="Application.ArrayDemo" />
+        <item itemvalue="Application.SequreQ" />
+        <item itemvalue="Application.FindDuplicateArrayEle" />
       </list>
     </recent_temporary>
   </component>
@@ -399,6 +418,85 @@
           <url>file://$PROJECT_DIR$/src/array/RightRotateArray.java</url>
           <line>4</line>
           <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindDuplicateArrayEle.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="77" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindDuplicateArrayEle.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindDuplicateArrayEle.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindDuplicateArrayEle.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/FindDuplicateArrayEle.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day18/LCMDemo.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day18/LCMDemo.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day18/LCMDemo.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
+          <line>14</line>
+          <properties class="day2.Main" method="pasacl">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="86" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

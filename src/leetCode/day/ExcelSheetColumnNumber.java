@@ -1,4 +1,4 @@
-package leetCode;
+package leetCode.day;
 
 public class ExcelSheetColumnNumber {
     public static int countColumn(String s) {

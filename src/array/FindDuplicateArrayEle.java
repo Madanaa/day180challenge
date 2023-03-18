@@ -14,7 +14,7 @@ public class FindDuplicateArrayEle {
                 map.put(a[i],1);
             }
         }
-        map.forEach((k,v) -> System.out.println(k+" "));
+        map.forEach((k,v) -> System.out.print(k+" "));
     }
 
     public static void main(String[] args) {
