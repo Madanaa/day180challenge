@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/Array20ProblemsForBegainner/package-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array20ProblemsForBegainner/ReverseArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="package-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -68,7 +68,7 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindSumOfProduct">
+  <component name="RunManager" selected="Application.ReverseArray">
     <configuration name="ArrayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day18.ArrayDemo" />
       <module name="day180challenge" />
@@ -121,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SequreQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18.SequreQ" />
+    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array20ProblemsForBegainner.ReverseArray" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18.*" />
+          <option name="PATTERN" value="Array20ProblemsForBegainner.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,15 +139,15 @@
       <item itemvalue="Application.FindSumOfProduct" />
       <item itemvalue="Application.LCMDemo" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.SequreQ" />
+      <item itemvalue="Application.ReverseArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.FindSumOfProduct" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.LCMDemo" />
         <item itemvalue="Application.ArrayDemo" />
-        <item itemvalue="Application.SequreQ" />
       </list>
     </recent_temporary>
   </component>
