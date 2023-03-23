@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/stringrevision/CompareString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringrevision/WordleGues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day20/CumculativeSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/stringrevision/MarioandtheBrokenString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringrevision/MarioandtheBrokenString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,20 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WordleGues">
+  <component name="RunManager" selected="Application.CumculativeSum">
+    <configuration name="CumculativeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day20.CumculativeSum" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FindSumOfProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day19.FindSumOfProduct" />
       <module name="day180challenge" />
@@ -83,25 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LCMDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day18.LCMDemo" />
+    <configuration name="MarioandtheBrokenString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringrevision.MarioandtheBrokenString" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2.Main" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day2.*" />
+          <option name="PATTERN" value="stringrevision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,19 +136,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.CumculativeSum" />
+      <item itemvalue="Application.MarioandtheBrokenString" />
       <item itemvalue="Application.WordleGues" />
       <item itemvalue="Application.FindSumOfProduct" />
-      <item itemvalue="Application.LCMDemo" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.ReverseArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CumculativeSum" />
+        <item itemvalue="Application.MarioandtheBrokenString" />
         <item itemvalue="Application.WordleGues" />
         <item itemvalue="Application.ReverseArray" />
         <item itemvalue="Application.FindSumOfProduct" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.LCMDemo" />
       </list>
     </recent_temporary>
   </component>
