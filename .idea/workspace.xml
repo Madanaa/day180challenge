@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/day20/CumculativeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/datatype/DataType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/AdditionNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day21/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringrevision/EsayPronounse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/stringrevision/StringFunction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/stringrevision/MarioandtheBrokenString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/stringrevision/MarioandtheBrokenString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +72,13 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CumculativeSum">
-    <configuration name="CumculativeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day20.CumculativeSum" />
+  <component name="RunManager" selected="Application.Multiply">
+    <configuration name="AdditionNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21.AdditionNumber" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day20.*" />
+          <option name="PATTERN" value="day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindSumOfProduct" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day19.FindSumOfProduct" />
+    <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datatype.DataType" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day19.*" />
+          <option name="PATTERN" value="datatype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MarioandtheBrokenString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringrevision.MarioandtheBrokenString" />
+    <configuration name="EsayPronounse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringrevision.EsayPronounse" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
@@ -109,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array20ProblemsForBegainner.ReverseArray" />
+    <configuration name="Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day21.Multiply" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array20ProblemsForBegainner.*" />
+          <option name="PATTERN" value="day21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordleGues" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringrevision.WordleGues" />
+    <configuration name="StringFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stringrevision.StringFunction" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
@@ -136,19 +139,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CumculativeSum" />
-      <item itemvalue="Application.MarioandtheBrokenString" />
-      <item itemvalue="Application.WordleGues" />
-      <item itemvalue="Application.FindSumOfProduct" />
-      <item itemvalue="Application.ReverseArray" />
+      <item itemvalue="Application.AdditionNumber" />
+      <item itemvalue="Application.Multiply" />
+      <item itemvalue="Application.DataType" />
+      <item itemvalue="Application.EsayPronounse" />
+      <item itemvalue="Application.StringFunction" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CumculativeSum" />
-        <item itemvalue="Application.MarioandtheBrokenString" />
-        <item itemvalue="Application.WordleGues" />
-        <item itemvalue="Application.ReverseArray" />
-        <item itemvalue="Application.FindSumOfProduct" />
+        <item itemvalue="Application.Multiply" />
+        <item itemvalue="Application.AdditionNumber" />
+        <item itemvalue="Application.DataType" />
+        <item itemvalue="Application.StringFunction" />
+        <item itemvalue="Application.EsayPronounse" />
       </list>
     </recent_temporary>
   </component>
