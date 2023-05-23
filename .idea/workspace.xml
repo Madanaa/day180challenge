@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/basicJava/string/StringFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basicJava/string/Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/GetDigi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/LuckyNumberCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/NumberPatt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day1/PaaternSe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day22/TheBlockGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day23/IfElseDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suriya/CEDEQ3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suriya/CEDEQ4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suriya/CEDEQ5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suriya/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suriya/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suriya/ICDEQ1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suriya/Ifelsedemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suriya/Ifelsedemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suriya/Relastional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suriya/Relatinol.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/suriya/icdecq2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teache/Addd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/teache/Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/PairSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/PairSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +67,7 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IfElseDemo">
+  <component name="RunManager" selected="Application.PairSum">
     <configuration name="GetDigi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.GetDigi" />
       <module name="day180challenge" />
@@ -141,12 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PaaternSe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.PaaternSe" />
+    <configuration name="PairSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.PairSum" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,19 +134,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GetDigi" />
+      <item itemvalue="Application.PairSum" />
       <item itemvalue="Application.IfElseDemo" />
       <item itemvalue="Application.LuckyNumberCalculator" />
       <item itemvalue="Application.NumberPatt" />
-      <item itemvalue="Application.PaaternSe" />
+      <item itemvalue="Application.GetDigi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PairSum" />
         <item itemvalue="Application.IfElseDemo" />
         <item itemvalue="Application.LuckyNumberCalculator" />
         <item itemvalue="Application.GetDigi" />
         <item itemvalue="Application.NumberPatt" />
-        <item itemvalue="Application.PaaternSe" />
       </list>
     </recent_temporary>
   </component>
