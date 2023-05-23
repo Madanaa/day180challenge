@@ -2,11 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/datatype/DataType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/AdditionNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day21/Multiply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringrevision/EsayPronounse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/stringrevision/StringFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicJava/string/StringFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basicJava/string/Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/GetDigi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/LuckyNumberCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/NumberPatt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day1/PaaternSe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day22/TheBlockGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day23/IfElseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suriya/CEDEQ3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suriya/CEDEQ4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suriya/CEDEQ5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suriya/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suriya/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suriya/ICDEQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suriya/Ifelsedemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suriya/Ifelsedemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suriya/Relastional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suriya/Relatinol.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/suriya/icdecq2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teache/Addd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teache/Variables.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,13 +88,13 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Multiply">
-    <configuration name="AdditionNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.AdditionNumber" />
+  <component name="RunManager" selected="Application.IfElseDemo">
+    <configuration name="GetDigi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.GetDigi" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataType" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datatype.DataType" />
+    <configuration name="IfElseDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day23.IfElseDemo" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datatype.*" />
+          <option name="PATTERN" value="day23.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EsayPronounse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringrevision.EsayPronounse" />
+    <configuration name="LuckyNumberCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.LuckyNumberCalculator" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringrevision.*" />
+          <option name="PATTERN" value="day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day21.Multiply" />
+    <configuration name="NumberPatt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.NumberPatt" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day21.*" />
+          <option name="PATTERN" value="day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="stringrevision.StringFunction" />
+    <configuration name="PaaternSe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day1.PaaternSe" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="stringrevision.*" />
+          <option name="PATTERN" value="day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +155,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.AdditionNumber" />
-      <item itemvalue="Application.Multiply" />
-      <item itemvalue="Application.DataType" />
-      <item itemvalue="Application.EsayPronounse" />
-      <item itemvalue="Application.StringFunction" />
+      <item itemvalue="Application.GetDigi" />
+      <item itemvalue="Application.IfElseDemo" />
+      <item itemvalue="Application.LuckyNumberCalculator" />
+      <item itemvalue="Application.NumberPatt" />
+      <item itemvalue="Application.PaaternSe" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Multiply" />
-        <item itemvalue="Application.AdditionNumber" />
-        <item itemvalue="Application.DataType" />
-        <item itemvalue="Application.StringFunction" />
-        <item itemvalue="Application.EsayPronounse" />
+        <item itemvalue="Application.IfElseDemo" />
+        <item itemvalue="Application.LuckyNumberCalculator" />
+        <item itemvalue="Application.GetDigi" />
+        <item itemvalue="Application.NumberPatt" />
+        <item itemvalue="Application.PaaternSe" />
       </list>
     </recent_temporary>
   </component>
@@ -524,6 +540,66 @@
           <url>file://$PROJECT_DIR$/src/Array20ProblemsForBegainner/ReverseArray.java</url>
           <line>23</line>
           <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day22/TheBlockGame.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day22/TheBlockGame.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day22/TheBlockGame.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day22/TheBlockGame.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day22/TheBlockGame.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day22/TheBlockGame.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day22/TheBlockGame.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/suriya/Demo2.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/suriya/Demo2.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/suriya/ICDEQ1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="113" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/suriya/CEDEQ5.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/suriya/CEDEQ5.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="118" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
