@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change beforePath="$PROJECT_DIR$/src/array/PairSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/PairSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/PairDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +68,7 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PairSum">
+  <component name="RunManager" selected="Application.PairDemo1">
     <configuration name="GetDigi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day1.GetDigi" />
       <module name="day180challenge" />
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberPatt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day1.NumberPatt" />
+    <configuration name="PairDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.PairDemo1" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day1.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,19 +135,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.PairDemo1" />
       <item itemvalue="Application.PairSum" />
       <item itemvalue="Application.IfElseDemo" />
       <item itemvalue="Application.LuckyNumberCalculator" />
-      <item itemvalue="Application.NumberPatt" />
       <item itemvalue="Application.GetDigi" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PairDemo1" />
         <item itemvalue="Application.PairSum" />
         <item itemvalue="Application.IfElseDemo" />
         <item itemvalue="Application.LuckyNumberCalculator" />
         <item itemvalue="Application.GetDigi" />
-        <item itemvalue="Application.NumberPatt" />
       </list>
     </recent_temporary>
   </component>
