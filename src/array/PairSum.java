@@ -2,6 +2,13 @@ package array;
 
 public class PairSum {
     // this brute force approach
+    /*
+    Ismein humein array mein har ek element ko doosre element ke saath compare karna hai aur unka difference check karna hai.
+    Agar difference target value ke barabar hai, toh hum ek pair consider karte hain.
+    (1, 2) ka difference hai 1
+   (2, 3) ka difference hai 1
+   (3, 4) ka difference hai 1
+     */
     public static int pairSum(int a[], int k) {
         int count = 0;
         for (int i = 0; i < a.length;i++) {
