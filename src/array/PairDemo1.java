@@ -12,7 +12,7 @@ public class PairDemo1 {
             if (numSet.contains(num+k)) {
                 count++;
             }
-            numSet.remove(num);
+            //numSet.remove(num);
         }
         return count;
     }
