@@ -8,5 +8,7 @@ public class PrintNNaturalNumber {
     }
     public static void main(String[] args) {
         System.out.println(getSum(3));
+        int a = 2001 % 400;
+        System.out.println(a);
     }
 }
