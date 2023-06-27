@@ -15,11 +15,13 @@ public class CheckPrime {
 
     }
     public static void main(String[] args) {
-        if (checkPrime(23)) {
-            System.out.println("Prime");
-        }
-        else {
-            System.out.println("Not prime");
+        for (int i = 10; i <= 23; i++) {
+            if (checkPrime(i)) {
+                System.out.println(i+ " Prime");
+            }
+            else {
+                System.out.println(i+ " Not prime");
+            }
         }
     }
 }
