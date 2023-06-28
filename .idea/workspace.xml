@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/day25/SumOfDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day25/CheckPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day25/CheckPrime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +78,7 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfDigit">
+  <component name="RunManager" selected="Application.ConvertBinaryNumberIntoInteger">
     <configuration name="CheckPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day25.CheckPrime" />
       <module name="day180challenge" />
@@ -93,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListDemo" />
+    <configuration name="ConvertBinaryNumberIntoInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.ConvertBinaryNumberIntoInteger" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
@@ -106,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PossiableOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="contest.c1.PossiableOrNot" />
+    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListDemo" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="contest.c1.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,18 +146,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.CheckPrime" />
+      <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
       <item itemvalue="Application.SumOfDigit" />
       <item itemvalue="Application.PrintNNaturalNumber" />
       <item itemvalue="Application.LinkedListDemo" />
-      <item itemvalue="Application.PossiableOrNot" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
         <item itemvalue="Application.SumOfDigit" />
         <item itemvalue="Application.CheckPrime" />
         <item itemvalue="Application.PrintNNaturalNumber" />
         <item itemvalue="Application.LinkedListDemo" />
-        <item itemvalue="Application.PossiableOrNot" />
       </list>
     </recent_temporary>
   </component>
@@ -626,6 +625,26 @@
           <url>file://$PROJECT_DIR$/src/recursion/PrintNNaturalNumber.java</url>
           <line>4</line>
           <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="135" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
