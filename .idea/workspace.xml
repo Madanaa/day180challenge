@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchAlgo/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/searchAlgo/SearchInsertPosition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +80,20 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ConvertBinaryNumberIntoInteger">
+  <component name="RunManager" selected="Application.SearchInsertPosition">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchAlgo.BinarySearch" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searchAlgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CheckPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day25.CheckPrime" />
       <module name="day180challenge" />
@@ -105,25 +120,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListDemo" />
+    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="searchAlgo.SearchInsertPosition" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PrintNNaturalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="recursion.PrintNNaturalNumber" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="recursion.*" />
+          <option name="PATTERN" value="searchAlgo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +147,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.CheckPrime" />
       <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
+      <item itemvalue="Application.SearchInsertPosition" />
       <item itemvalue="Application.SumOfDigit" />
-      <item itemvalue="Application.PrintNNaturalNumber" />
-      <item itemvalue="Application.LinkedListDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInsertPosition" />
+        <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
         <item itemvalue="Application.SumOfDigit" />
         <item itemvalue="Application.CheckPrime" />
-        <item itemvalue="Application.PrintNNaturalNumber" />
-        <item itemvalue="Application.LinkedListDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -645,6 +647,41 @@
           <url>file://$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java</url>
           <line>15</line>
           <option name="timeStamp" value="135" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/searchAlgo/BinarySearch.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/searchAlgo/BinarySearch.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/searchAlgo/BinarySearch.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/searchAlgo/BinarySearch.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="139" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/searchAlgo/SearchInsertPosition.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/searchAlgo/SearchInsertPosition.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/searchAlgo/SearchInsertPosition.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day2/Main.java</url>

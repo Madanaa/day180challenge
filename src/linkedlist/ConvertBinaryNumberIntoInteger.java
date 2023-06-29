@@ -29,6 +29,5 @@ public class ConvertBinaryNumberIntoInteger {
         listNode1.next = listNode2;
        int binary = getDecimalValue(listNode);
         System.out.println(binary);
-
     }
 }
