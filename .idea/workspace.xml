@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/array/RemoveDuplicateFromSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/BestTimeBuyAndSell.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,7 +78,20 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RemoveDuplicateFromSortedArray">
+  <component name="RunManager" selected="Application.BestTimeBuyAndSell">
+    <configuration name="BestTimeBuyAndSell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.BestTimeBuyAndSell" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="searchAlgo.BinarySearch" />
       <module name="day180challenge" />
@@ -131,33 +144,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day25.SumOfDigit" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day25.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="Application.BestTimeBuyAndSell" />
       <item itemvalue="Application.BinarySearch" />
       <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
       <item itemvalue="Application.RemoveDuplicateFromSortedArray" />
       <item itemvalue="Application.SearchInsertPosition" />
-      <item itemvalue="Application.SumOfDigit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BestTimeBuyAndSell" />
         <item itemvalue="Application.RemoveDuplicateFromSortedArray" />
         <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
-        <item itemvalue="Application.SumOfDigit" />
       </list>
     </recent_temporary>
   </component>
@@ -680,6 +680,21 @@
           <url>file://$PROJECT_DIR$/src/searchAlgo/SearchInsertPosition.java</url>
           <line>15</line>
           <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/RemoveDuplicateFromSortedArray.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/RemoveDuplicateFromSortedArray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/RemoveDuplicateFromSortedArray.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="146" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
