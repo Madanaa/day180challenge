@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/array/BestTimeBuyAndSell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day26/LoopU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question100basic/EvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question100basic/PositiveOrNegative.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question100basic/SumOfFirstNnaturalNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/array/BestTimeBuyAndSell.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/array/BestTimeBuyAndSell.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +82,7 @@
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BestTimeBuyAndSell">
+  <component name="RunManager" selected="Application.SumOfFirstNnaturalNumber">
     <configuration name="BestTimeBuyAndSell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.BestTimeBuyAndSell" />
       <module name="day180challenge" />
@@ -92,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchAlgo.BinarySearch" />
+    <configuration name="EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="question100basic.EvenOdd" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="searchAlgo.*" />
+          <option name="PATTERN" value="question100basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ConvertBinaryNumberIntoInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.ConvertBinaryNumberIntoInteger" />
+    <configuration name="PositiveOrNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="question100basic.PositiveOrNegative" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="question100basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchInsertPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="searchAlgo.SearchInsertPosition" />
+    <configuration name="SumOfFirstNnaturalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="question100basic.SumOfFirstNnaturalNumber" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="searchAlgo.*" />
+          <option name="PATTERN" value="question100basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,19 +149,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.EvenOdd" />
+      <item itemvalue="Application.PositiveOrNegative" />
+      <item itemvalue="Application.SumOfFirstNnaturalNumber" />
       <item itemvalue="Application.BestTimeBuyAndSell" />
-      <item itemvalue="Application.BinarySearch" />
-      <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
       <item itemvalue="Application.RemoveDuplicateFromSortedArray" />
-      <item itemvalue="Application.SearchInsertPosition" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfFirstNnaturalNumber" />
+        <item itemvalue="Application.EvenOdd" />
+        <item itemvalue="Application.PositiveOrNegative" />
         <item itemvalue="Application.BestTimeBuyAndSell" />
         <item itemvalue="Application.RemoveDuplicateFromSortedArray" />
-        <item itemvalue="Application.SearchInsertPosition" />
-        <item itemvalue="Application.BinarySearch" />
-        <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
       </list>
     </recent_temporary>
   </component>
@@ -696,6 +700,26 @@
           <line>4</line>
           <option name="timeStamp" value="146" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/BestTimeBuyAndSell.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="147" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/BestTimeBuyAndSell.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/BestTimeBuyAndSell.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="149" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/BestTimeBuyAndSell.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
           <line>14</line>
@@ -704,6 +728,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/array/BestTimeBuyAndSell.java</url>
+          <line>17</line>
+          <properties class="array.BestTimeBuyAndSell" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="151" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

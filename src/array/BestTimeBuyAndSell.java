@@ -11,6 +11,10 @@ public class BestTimeBuyAndSell {
         }
         return maxProfit;
     }
+//    public static int maxProfitBruteForce(int[] price) {
+//        int maxProfit = 0;
+//
+//    }
     public static void main(String[] args) {
         int price[] = {7,1,5,3,6,4};
         System.out.println(maxProfitBuySell(price));
