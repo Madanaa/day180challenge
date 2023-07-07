@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/question100basic/FindFirstAndLastDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question100basic/CheckPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question100basic/FindSumOfProduct.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/CheckIfStringIsNull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/FindLengthString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/StringIsEqualOrNot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/UpperCaseLowerCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/VowelOrConsonant.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question100basic/SumOfFirstNnaturalNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question100basic/SumOfFirstNnaturalNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/question100basic/RemoveFirstAndLastDigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question100basic/RemoveFirstAndLastDigit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,14 +84,17 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\BloggerApp\springboot-rest-api\day180challenge\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="question100basic" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.FindFirstAndLastDigit">
-    <configuration name="BestTimeBuyAndSell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.BestTimeBuyAndSell" />
+  <component name="RunManager" selected="Application.StringIsEqualOrNot">
+    <configuration name="CheckIfStringIsNull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.CheckIfStringIsNull" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindFirstAndLastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="question100basic.FindFirstAndLastDigit" />
+    <configuration name="FindLengthString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.FindLengthString" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="question100basic.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question100basic.EvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="question100basic.EvenOdd" />
+    <configuration name="StringIsEqualOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.StringIsEqualOrNot" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="question100basic.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question100basic.PositiveOrNegative" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="question100basic.PositiveOrNegative" />
+    <configuration name="UpperCaseLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.UpperCaseLowerCase" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="question100basic.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question100basic.SumOfFirstNnaturalNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="question100basic.SumOfFirstNnaturalNumber" />
+    <configuration name="VowelOrConsonant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.VowelOrConsonant" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="question100basic.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,19 +155,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindFirstAndLastDigit" />
-      <item itemvalue="Application.question100basic.EvenOdd" />
-      <item itemvalue="Application.question100basic.PositiveOrNegative" />
-      <item itemvalue="Application.question100basic.SumOfFirstNnaturalNumber" />
-      <item itemvalue="Application.BestTimeBuyAndSell" />
+      <item itemvalue="Application.CheckIfStringIsNull" />
+      <item itemvalue="Application.FindLengthString" />
+      <item itemvalue="Application.StringIsEqualOrNot" />
+      <item itemvalue="Application.UpperCaseLowerCase" />
+      <item itemvalue="Application.VowelOrConsonant" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindFirstAndLastDigit" />
-        <item itemvalue="Application.question100basic.SumOfFirstNnaturalNumber" />
-        <item itemvalue="Application.question100basic.EvenOdd" />
-        <item itemvalue="Application.question100basic.PositiveOrNegative" />
-        <item itemvalue="Application.BestTimeBuyAndSell" />
+        <item itemvalue="Application.StringIsEqualOrNot" />
+        <item itemvalue="Application.CheckIfStringIsNull" />
+        <item itemvalue="Application.UpperCaseLowerCase" />
+        <item itemvalue="Application.FindLengthString" />
+        <item itemvalue="Application.VowelOrConsonant" />
       </list>
     </recent_temporary>
   </component>
@@ -731,6 +740,11 @@
           <url>file://$PROJECT_DIR$/src/question100basic/SumOfFirstNnaturalNumber.java</url>
           <line>27</line>
           <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/question100basic/RemoveFirstAndLastDigit.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
