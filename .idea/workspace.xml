@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/string/OccuranceString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/question100basic/SumOfGivenRange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
       <recent name="question100basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OccuranceString">
+  <component name="RunManager" selected="Application.SumOfGivenRange">
     <configuration name="CheckIfHaveSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="string.CheckIfHaveSubString" />
       <module name="day180challenge" />
@@ -101,6 +101,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumOfGivenRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="question100basic.SumOfGivenRange" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="question100basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,33 +147,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string.UpperCaseLowerCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.UpperCaseLowerCase" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="string.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.CheckIfHaveSubString" />
       <item itemvalue="Application.OccuranceString" />
+      <item itemvalue="Application.SumOfGivenRange" />
       <item itemvalue="Application.string.CheckIfStringIsNull" />
       <item itemvalue="Application.string.StringIsEqualOrNot" />
-      <item itemvalue="Application.string.UpperCaseLowerCase" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfGivenRange" />
         <item itemvalue="Application.OccuranceString" />
         <item itemvalue="Application.CheckIfHaveSubString" />
         <item itemvalue="Application.string.StringIsEqualOrNot" />
         <item itemvalue="Application.string.CheckIfStringIsNull" />
-        <item itemvalue="Application.string.UpperCaseLowerCase" />
       </list>
     </recent_temporary>
   </component>
