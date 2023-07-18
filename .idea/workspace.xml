@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/question100basic/SumOfGivenRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArrayList/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/FrequencyOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/LeftRightRotation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/SortArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/SuffleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array2d/Print2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day27/BooleanDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/question100basic/CheckPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question100basic/CheckPrime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,13 +88,13 @@
       <recent name="question100basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SumOfGivenRange">
-    <configuration name="CheckIfHaveSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.CheckIfHaveSubString" />
+  <component name="RunManager" selected="Application.Print2dArray">
+    <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.ArrayListDemo" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OccuranceString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.OccuranceString" />
+    <configuration name="FrequencyOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.FrequencyOfElements" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOfGivenRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="question100basic.SumOfGivenRange" />
+    <configuration name="LeftRightRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.LeftRightRotation" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="question100basic.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string.CheckIfStringIsNull" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.CheckIfStringIsNull" />
+    <configuration name="Print2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array2d.Print2dArray" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="array2d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="string.StringIsEqualOrNot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="string.StringIsEqualOrNot" />
+    <configuration name="SuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.SuffleArray" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="string.*" />
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,19 +155,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CheckIfHaveSubString" />
-      <item itemvalue="Application.OccuranceString" />
-      <item itemvalue="Application.SumOfGivenRange" />
-      <item itemvalue="Application.string.CheckIfStringIsNull" />
-      <item itemvalue="Application.string.StringIsEqualOrNot" />
+      <item itemvalue="Application.ArrayListDemo" />
+      <item itemvalue="Application.Print2dArray" />
+      <item itemvalue="Application.FrequencyOfElements" />
+      <item itemvalue="Application.LeftRightRotation" />
+      <item itemvalue="Application.SuffleArray" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SumOfGivenRange" />
-        <item itemvalue="Application.OccuranceString" />
-        <item itemvalue="Application.CheckIfHaveSubString" />
-        <item itemvalue="Application.string.StringIsEqualOrNot" />
-        <item itemvalue="Application.string.CheckIfStringIsNull" />
+        <item itemvalue="Application.Print2dArray" />
+        <item itemvalue="Application.ArrayListDemo" />
+        <item itemvalue="Application.FrequencyOfElements" />
+        <item itemvalue="Application.SuffleArray" />
+        <item itemvalue="Application.LeftRightRotation" />
       </list>
     </recent_temporary>
   </component>
@@ -408,21 +415,6 @@
           <url>file://$PROJECT_DIR$/src/day14/MajorityElement.java</url>
           <line>26</line>
           <option name="timeStamp" value="63" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/RightRotateArray.java</url>
-          <line>7</line>
-          <option name="timeStamp" value="65" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/RightRotateArray.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/array/RightRotateArray.java</url>
-          <line>4</line>
-          <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/array/FindDuplicateArrayEle.java</url>
@@ -738,6 +730,66 @@
           <url>file://$PROJECT_DIR$/src/question100basic/RemoveFirstAndLastDigit.java</url>
           <line>5</line>
           <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/question100basic/CheckPrime.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/question100basic/CheckPrime.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/question100basic/CheckPrime.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/DuplicateValueInArray.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/DuplicateValueInArray.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="165" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/DuplicateValueInArray.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/DuplicateValueInArray.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="167" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/DuplicateValueInArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/RemoveDuplicateElementInArray.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/RemoveDuplicateElementInArray.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/RemoveDuplicateElementInArray.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/SuffleArray.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="190" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
