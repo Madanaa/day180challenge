@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/ArrayList/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/FrequencyOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/LeftRightRotation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SortArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SuffleArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2d/Print2dArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day27/BooleanDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array2d/FindAvgOf2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array2d/FindMaxIn2dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array2d/SumOf2dArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/question100basic/CheckPrime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/question100basic/CheckPrime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +83,7 @@
       <recent name="question100basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Print2dArray">
+  <component name="RunManager" selected="Application.FindAvgOf2dArray">
     <configuration name="ArrayListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArrayList.ArrayListDemo" />
       <module name="day180challenge" />
@@ -102,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FrequencyOfElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.FrequencyOfElements" />
+    <configuration name="FindAvgOf2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array2d.FindAvgOf2dArray" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array2d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftRightRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.LeftRightRotation" />
+    <configuration name="FindMaxIn2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array2d.FindMaxIn2dArray" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array2d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SuffleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.SuffleArray" />
+    <configuration name="SumOf2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array2d.SumOf2dArray" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array.*" />
+          <option name="PATTERN" value="array2d.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,18 +151,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.ArrayListDemo" />
+      <item itemvalue="Application.FindAvgOf2dArray" />
+      <item itemvalue="Application.FindMaxIn2dArray" />
       <item itemvalue="Application.Print2dArray" />
-      <item itemvalue="Application.FrequencyOfElements" />
-      <item itemvalue="Application.LeftRightRotation" />
-      <item itemvalue="Application.SuffleArray" />
+      <item itemvalue="Application.SumOf2dArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindAvgOf2dArray" />
+        <item itemvalue="Application.FindMaxIn2dArray" />
+        <item itemvalue="Application.SumOf2dArray" />
         <item itemvalue="Application.Print2dArray" />
         <item itemvalue="Application.ArrayListDemo" />
-        <item itemvalue="Application.FrequencyOfElements" />
-        <item itemvalue="Application.SuffleArray" />
-        <item itemvalue="Application.LeftRightRotation" />
       </list>
     </recent_temporary>
   </component>
