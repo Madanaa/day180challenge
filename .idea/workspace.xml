@@ -2,9 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/array/KthLargestElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2d/Transpose2dArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twopointer/FindPairOfSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/BuySellStock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/CountOccurrencesBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/FirstOccurrenceBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/InterpolationSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/LastOccurrenceBinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/SmallestMissingPositive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array2d/AddSumAndStoreIn1dArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/linkedlist/DoublyLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/singlylinkedlist/createSinglyLinkedListAndDisplay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/twopointer/TripalSumTarget.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,13 +91,13 @@
       <recent name="question100basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FindPairOfSum">
-    <configuration name="FindAvgOf2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array2d.FindAvgOf2dArray" />
+  <component name="RunManager" selected="Application.createSinglyLinkedListAndDisplay">
+    <configuration name="ConvertBinaryNumberIntoInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.ConvertBinaryNumberIntoInteger" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array2d.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindMaxIn2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array2d.FindMaxIn2dArray" />
+    <configuration name="DoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.DoublyLinkedList" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array2d.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPairOfSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="twopointer.FindPairOfSum" />
+    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListDemo" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="twopointer.*" />
+          <option name="PATTERN" value="linkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,8 +131,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KthLargestElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.KthLargestElement" />
+    <configuration name="SmallestMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.SmallestMissingPositive" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
@@ -136,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumOf2dArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array2d.SumOf2dArray" />
+    <configuration name="createSinglyLinkedListAndDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singlylinkedlist.createSinglyLinkedListAndDisplay" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="array2d.*" />
+          <option name="PATTERN" value="singlylinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +158,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindAvgOf2dArray" />
-      <item itemvalue="Application.FindMaxIn2dArray" />
-      <item itemvalue="Application.FindPairOfSum" />
-      <item itemvalue="Application.KthLargestElement" />
-      <item itemvalue="Application.SumOf2dArray" />
+      <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
+      <item itemvalue="Application.DoublyLinkedList" />
+      <item itemvalue="Application.LinkedListDemo" />
+      <item itemvalue="Application.createSinglyLinkedListAndDisplay" />
+      <item itemvalue="Application.SmallestMissingPositive" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FindPairOfSum" />
-        <item itemvalue="Application.KthLargestElement" />
-        <item itemvalue="Application.FindAvgOf2dArray" />
-        <item itemvalue="Application.FindMaxIn2dArray" />
-        <item itemvalue="Application.SumOf2dArray" />
+        <item itemvalue="Application.createSinglyLinkedListAndDisplay" />
+        <item itemvalue="Application.DoublyLinkedList" />
+        <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
+        <item itemvalue="Application.LinkedListDemo" />
+        <item itemvalue="Application.SmallestMissingPositive" />
       </list>
     </recent_temporary>
   </component>
@@ -786,6 +794,146 @@
           <line>9</line>
           <option name="timeStamp" value="192" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array2d/AddSumAndStoreIn1dArray.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/InsertionSort.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/InsertionSort.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="199" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/InsertionSort.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/InsertionSort.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/InsertionSort.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InterpolationSearch.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InterpolationSearch.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InterpolationSearch.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InterpolationSearch.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/InterpolationSearch.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="209" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/SmallestMissingPositive.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="210" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/SmallestMissingPositive.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/SmallestMissingPositive.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/SmallestMissingPositive.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/SmallestMissingPositive.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedlist/LinkedListDemo.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedlist/LinkedListDemo.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/LastOccurrenceBinarySearch.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/LastOccurrenceBinarySearch.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/LastOccurrenceBinarySearch.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/LastOccurrenceBinarySearch.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/LastOccurrenceBinarySearch.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/LastOccurrenceBinarySearch.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/LastOccurrenceBinarySearch.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="224" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/LastOccurrenceBinarySearch.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="226" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
           <line>14</line>
@@ -803,6 +951,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/array/LastOccurrenceBinarySearch.java</url>
+          <line>4</line>
+          <properties class="array.LastOccurrenceBinarySearch" method="lastOccurrenceBinarySearch">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="217" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
