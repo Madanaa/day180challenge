@@ -76,6 +76,7 @@ public class CountOccurrencesBinarySearch {
         int occurrences = countOccurrencesBinarySearch(array, target);
 
         System.out.println("Number of occurrences of target: " + occurrences);
+
     }
 }
 
