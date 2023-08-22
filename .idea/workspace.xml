@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/array/BuySellStock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/CountOccurrencesBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/FirstOccurrenceBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/InterpolationSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/LastOccurrenceBinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SmallestMissingPositive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array2d/AddSumAndStoreIn1dArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day28/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/linkedlist/DoublyLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/singlylinkedlist/createSinglyLinkedListAndDisplay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twopointer/TripalSumTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day28/quickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day29/BubbleSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day28/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28/Demo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +83,26 @@
       <recent name="question100basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.createSinglyLinkedListAndDisplay">
+  <component name="RunManager" selected="Application.quickSort">
     <configuration name="ConvertBinaryNumberIntoInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="linkedlist.ConvertBinaryNumberIntoInteger" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28.Demo" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day28.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,32 +123,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.LinkedListDemo" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SmallestMissingPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="array.SmallestMissingPositive" />
-      <module name="day180challenge" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="createSinglyLinkedListAndDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="singlylinkedlist.createSinglyLinkedListAndDisplay" />
       <module name="day180challenge" />
@@ -157,20 +136,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day28.quickSort" />
+      <module name="day180challenge" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day28.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.quickSort" />
+      <item itemvalue="Application.Demo" />
       <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
       <item itemvalue="Application.DoublyLinkedList" />
-      <item itemvalue="Application.LinkedListDemo" />
       <item itemvalue="Application.createSinglyLinkedListAndDisplay" />
-      <item itemvalue="Application.SmallestMissingPositive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.quickSort" />
+        <item itemvalue="Application.Demo" />
         <item itemvalue="Application.createSinglyLinkedListAndDisplay" />
         <item itemvalue="Application.DoublyLinkedList" />
         <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
-        <item itemvalue="Application.LinkedListDemo" />
-        <item itemvalue="Application.SmallestMissingPositive" />
       </list>
     </recent_temporary>
   </component>
@@ -933,6 +925,46 @@
           <url>file://$PROJECT_DIR$/src/linkedlist/ConvertBinaryNumberIntoInteger.java</url>
           <line>28</line>
           <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/quickSort.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/quickSort.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/quickSort.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/quickSort.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/quickSort.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/quickSort.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/quickSort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day28/quickSort.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="235" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
