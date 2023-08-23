@@ -15,6 +15,10 @@ public class BubbleSort {
         }
     }
     public static void main(String[] args) {
-
+        int[] a = {1,7,3,8,4};
+        bubbleSort(a);
+        for (int i = 0; i < a.length;i++) {
+            System.out.println(a[i]);
+        }
     }
 }

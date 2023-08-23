@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/day28/quickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day29/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/math/GCDOrHCF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day28/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day28/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day29/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,13 +82,13 @@
       <recent name="question100basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.quickSort">
-    <configuration name="ConvertBinaryNumberIntoInteger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.ConvertBinaryNumberIntoInteger" />
+  <component name="RunManager" selected="Application.BubbleSort">
+    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day29.BubbleSort" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="day29.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DoublyLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="linkedlist.DoublyLinkedList" />
+    <configuration name="GCDOrHCF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="math.GCDOrHCF" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="linkedlist.*" />
+          <option name="PATTERN" value="math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,19 +149,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BubbleSort" />
+      <item itemvalue="Application.GCDOrHCF" />
       <item itemvalue="Application.quickSort" />
       <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
-      <item itemvalue="Application.DoublyLinkedList" />
       <item itemvalue="Application.createSinglyLinkedListAndDisplay" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BubbleSort" />
+        <item itemvalue="Application.GCDOrHCF" />
         <item itemvalue="Application.quickSort" />
         <item itemvalue="Application.Demo" />
         <item itemvalue="Application.createSinglyLinkedListAndDisplay" />
-        <item itemvalue="Application.DoublyLinkedList" />
-        <item itemvalue="Application.ConvertBinaryNumberIntoInteger" />
       </list>
     </recent_temporary>
   </component>
