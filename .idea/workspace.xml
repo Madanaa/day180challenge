@@ -2,9 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb97ea8b-9d19-4963-a506-4fa6d3414f7a" name="Changes" comment="added">
-      <change afterPath="$PROJECT_DIR$/src/math/GCDOrHCF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/Addition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/Doubt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day30/Operater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/Bitwise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/NumberCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day31/ReverseNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabasic/DoWhileLoopExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabasic/ExtractDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabasic/Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabasic/PowerOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabasic/PrintEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javabasic/SimpleInterest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day29/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day29/BubbleSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +94,13 @@
       <recent name="question100basic" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BubbleSort">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day29.BubbleSort" />
+  <component name="RunManager" selected="Application.NumberCount">
+    <configuration name="Factorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.Factorial" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day29.*" />
+          <option name="PATTERN" value="javabasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28.Demo" />
+    <configuration name="NumberCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day31.NumberCount" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28.*" />
+          <option name="PATTERN" value="day31.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GCDOrHCF" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="math.GCDOrHCF" />
+    <configuration name="PowerOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.PowerOfNumber" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="math.*" />
+          <option name="PATTERN" value="javabasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="createSinglyLinkedListAndDisplay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singlylinkedlist.createSinglyLinkedListAndDisplay" />
+    <configuration name="PrintEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javabasic.PrintEvenOdd" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="singlylinkedlist.*" />
+          <option name="PATTERN" value="javabasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="quickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day28.quickSort" />
+    <configuration name="ReverseDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rivision.ReverseDigit" />
       <module name="day180challenge" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day28.*" />
+          <option name="PATTERN" value="rivision.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,19 +161,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BubbleSort" />
-      <item itemvalue="Application.GCDOrHCF" />
-      <item itemvalue="Application.quickSort" />
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.createSinglyLinkedListAndDisplay" />
+      <item itemvalue="Application.Factorial" />
+      <item itemvalue="Application.PowerOfNumber" />
+      <item itemvalue="Application.PrintEvenOdd" />
+      <item itemvalue="Application.ReverseDigit" />
+      <item itemvalue="Application.NumberCount" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.GCDOrHCF" />
-        <item itemvalue="Application.quickSort" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.createSinglyLinkedListAndDisplay" />
+        <item itemvalue="Application.NumberCount" />
+        <item itemvalue="Application.ReverseDigit" />
+        <item itemvalue="Application.Factorial" />
+        <item itemvalue="Application.PowerOfNumber" />
+        <item itemvalue="Application.PrintEvenOdd" />
       </list>
     </recent_temporary>
   </component>
@@ -964,6 +976,51 @@
           <url>file://$PROJECT_DIR$/src/day28/quickSort.java</url>
           <line>34</line>
           <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day30/Operater.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day30/Operater.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day30/Operater.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/day30/Operater.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rivision/ReverseDigit.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rivision/ReverseDigit.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rivision/ReverseDigit.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rivision/ReverseDigit.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/rivision/ReverseDigit.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="244" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/day2/Main.java</url>
